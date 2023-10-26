@@ -2,3 +2,22 @@ body{
     background-color: aquamarine;
     color: blueviolet;
 }
+
+.display-sum{
+    color: red;
+}
+
+h3{
+    padding-top: 10%;
+}
+
+#👻{
+    font-size: 5rem;
+    text-align: center;
+    transition: transform 1s;
+}
+
+#👻.flipped{
+    font-size: 5rem;
+    transform: rotate(0.5turn);
+}
